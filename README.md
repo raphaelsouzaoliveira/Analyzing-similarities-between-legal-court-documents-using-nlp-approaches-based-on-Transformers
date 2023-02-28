@@ -1,7 +1,11 @@
 # Supplemental Materials
 ## Analyzing similarities between legal court documents using natural language processing approaches based on Transformers
 
-Raphael Souza de Oliveira, TRT5 - Regional Labor Court of the 5th Region, Salvador, BA, Brazil; Erick Giovani Sperandio Nascimento, Computational Modeling Department, SENAI CIMATEC University Center, Salvador, BA, Brazil and Surrey Institute for People-Centred AI, School of Computer Science and Electronic Engineering, Faculty of Engineering and Physical Sciences, University of Surrey, Guildford, UK
+Raphael Souza de Oliveira^1,2^, Erick Giovani Sperandio Nascimento^2,3^
+
+^1^ TRT5 - Regional Labor Court of the 5th Region, Salvador, BA, Brazil
+^2^ Computational Modeling Department, SENAI CIMATEC University Center, Salvador, BA, Brazil
+^3^ Surrey Institute for People-Centred AI, School of Computer Science and Electronic Engineering, Faculty of Engineering and Physical Sciences, University of Surrey, Guildford, UK
 
 ### Data
 Folder: data
